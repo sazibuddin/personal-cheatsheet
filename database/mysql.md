@@ -45,7 +45,7 @@ mysql -u user_name -p -h host_name
 
 10. Import Database
 ```
-sudo mysql -u user_name -p dbname < /var/www/html/loutus/dbbackup/thefile_name.sql
+sudo mysql -u user_name -p dbname < /the_path/thefile_name.sql
 ```
 11. Export Database
 ```
